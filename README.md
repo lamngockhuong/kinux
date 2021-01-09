@@ -1,2 +1,2 @@
-# kunix-tools
-Unix tools
+# kinux
+Linux tools
